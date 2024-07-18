@@ -41,7 +41,7 @@ python train.py --dataset <dataset> --epochs <epochs>
 *>>  prestosolution data & epochs 100*
 
 ```docker
-python train.py --dataset **PRESTO** --epoch 100
+python train.py --dataset PRESTO --epoch 100
 ```
 
 <br/>
