@@ -1,0 +1,1 @@
+docker build -t presto/anomaly/mtad-gat .
